@@ -1,6 +1,6 @@
 <!-- 🔹 Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JasmineSavathallapalli/JasmineSavathallapalli/main/banner.png" alt="Banner" width="400"/>
+  <img src="https://raw.githubusercontent.com/JasmineSavathallapalli/JasmineSavathallapalli/main/bannerr.png" alt="Banner" width="400"/>
 </p>
 
 <h1 align="center">Hi, I'm Jasmine Savathallapalli! 👋</h1>
