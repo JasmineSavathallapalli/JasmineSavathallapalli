@@ -1,6 +1,6 @@
 <!-- 🔹 Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JasmineSavathallapalli/JasmineSavathallapalli/main/banner.png" alt="Banner" style="max-width: 100%; height: auto;" width="900"/>
+  <img src="https://raw.githubusercontent.com/JasmineSavathallapalli/JasmineSavathallapalli/main/banner.png" alt="Banner" width="400"/>
 </p>
 
 <h1 align="center">Hi, I'm Jasmine Savathallapalli! 👋</h1>
@@ -63,3 +63,14 @@ I’m Jasmine Savathallapalli — a curious and driven developer who loves divin
 My journey began with curiosity about how technology shapes the world — and now, I’m actively building real-world solutions across web development, machine learning, and user-centered design.
 
 From building ML models to crafting smooth front-end experiences, I’m passionate about solving real problems. I’ve worked on projects like classroom booking apps, AI-powered counterfeit detection systems, and interactive job fair plat
+</td>
+</tr>
+</table>
+
+### 🔧 What I Do Best
+
+- 🛠 Building scalable full-stack applications from idea to deployment  
+- 🎨 Designing accessible, user-friendly interfaces with attention to detail  
+- 🤖 Applying AI/ML to solve real-world problems and drive smarter solutions  
+- ☁️ Exploring cybersecurity, cloud computing, and emerging tech trends  
+- 🌱 Believing in learning by doing — always growing, sharing, and inspiring others  
