@@ -1,5 +1,7 @@
 <!-- 🔹 Banner -->
-![Banner](https://raw.githubusercontent.com/JasmineSavathallapalli/JasmineSavathallapalli/main/banner.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JasmineSavathallapalli/JasmineSavathallapalli/main/banner.png" alt="Banner" style="max-width: 100%; height: auto;" width="900"/>
+</p>
 
 <h1 align="center">Hi, I'm Jasmine Savathallapalli! 👋</h1>
 
@@ -9,8 +11,7 @@
 </p>
 
 
-
-### 🛠️ Languages and Tools
+<h3 align="center">:hammer_and_wrench: Languages and Tools</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -23,9 +24,10 @@
 ![GitHub Snake](https://raw.githubusercontent.com/OfficialCodeVoyage/OfficialCodeVoyage/refs/heads/output/github-snake-dark.svg)
 
 
+
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top" align="justify">
 
 ### 🌐 Let's Connect and Grow Together!
 
@@ -42,13 +44,17 @@
 
 ### ✨ Fun Facts
 
+<div align="justify">
+
 - I love exploring new technologies and building real-world projects 💡  
 - I'm always trying to learn something new and improve consistently 🔄  
 - I believe in growth through consistency and curiosity 🌱  
 - I enjoy helping others in tech and sharing knowledge with my peers 💬  
 
+</div>
+
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="justify">
 
 ### 👩💻 About Me
 
@@ -56,19 +62,4 @@ I’m Jasmine Savathallapalli — a curious and driven developer who loves divin
 
 My journey began with curiosity about how technology shapes the world — and now, I’m actively building real-world solutions across web development, machine learning, and user-centered design.
 
-From building ML models to crafting smooth front-end experiences, I’m passionate about solving real problems. I’ve worked on projects like classroom booking apps, AI-powered counterfeit detection systems, and interactive job fair platforms. I’ve gained hands-on exposure to leading tech stacks and tools.
-
-At the core, I’m a lifelong learner who values consistency, creativity, and collaboration — always seeking to grow, help others, and contribute to meaningful work.
-
-</td>
-</tr>
-</table>
-
-
-### 🔧 What I Do Best
-
-- 🛠 Building scalable full-stack applications from idea to deployment  
-- 🎨 Designing accessible, user-friendly interfaces with attention to detail  
-- 🤖 Applying AI/ML to solve real-world problems and drive smarter solutions  
-- ☁️ Exploring cybersecurity, cloud computing, and emerging tech trends  
-- 🌱 Believing in learning by doing — always growing, sharing, and inspiring others  
+From building ML models to crafting smooth front-end experiences, I’m passionate about solving real problems. I’ve worked on projects like classroom booking apps, AI-powered counterfeit detection systems, and interactive job fair plat
