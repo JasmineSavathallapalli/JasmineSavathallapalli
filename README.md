@@ -62,7 +62,7 @@ I’m Jasmine Savathallapalli — a curious and driven developer who loves divin
 
 My journey began with curiosity about how technology shapes the world — and now, I’m actively building real-world solutions across web development, machine learning, and user-centered design.
 
-From building ML models to crafting smooth front-end experiences, I’m passionate about solving real problems. I’ve worked on projects like classroom booking apps, AI-powered counterfeit detection systems, and interactive job fair plat
+From building ML models to crafting smooth front-end experiences, I’m passionate about solving real problems. I’ve worked on projects like classroom booking apps, AI-powered counterfeit detection systems, and interactive job fair platform. I always love to explore new things with consistency.
 </td>
 </tr>
 </table>
