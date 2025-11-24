@@ -14,8 +14,6 @@
 <!-- Galaxy Banner GIF (Working) -->
 
 
----
-
 ## 🌠 About Me — A Mind Among the Stars
 Hello! I’m **Jasmine Savathallapalli**, a tech explorer travelling through the galaxies of  
 **Full Stack Web Development and AI/ML**.
@@ -30,11 +28,10 @@ I enjoy building systems that are intelligent, **safe**, and **meaningful** — 
 - 🧩 AI Agents & Autonomous Intelligent Systems  
 - 🔬 Research, Innovation & Experimental AI
 
----
 
 ## 🚀 Currently Exploring
 - 🧬 Multimodal Deep Learning for Mental Health Detection  
-- 📚 NLP + LLMs for Intelligent Understanding  
+- 📱 Mobile Application Development
 - 🤖 AI Agentic Systems & AI Tools  
 - 🔍 Secure & Safe AI Deployment  
 - ⚙️ Efficient ML Techniques & Model Optimization  
@@ -88,8 +85,6 @@ I enjoy building systems that are intelligent, **safe**, and **meaningful** — 
 
 </p>
 
----
-
 ## 🌌 Tech Evolution — Always Learning, Always Updating
 
 <p align="center">
@@ -100,23 +95,17 @@ I enjoy building systems that are intelligent, **safe**, and **meaningful** — 
   <b>My tech stack evolves constantly — like the orbit of a growing galaxy.</b>
 </p>
     
-             
----
-
-# 🐍 Galaxy Snake — Contribution Game  
-<p align="center">
+  <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
+## 🏆 Achievements
 
----
-
-# 🏆 Achievements  
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JasmineSavathallapalli&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
-</div>
-
----
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JasmineSavathallapalli&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JasmineSavathallapalli&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JasmineSavathallapalli&theme=tokyonight" />
+</p>
 
 ## 🌍 Connect Across the Stars
 
@@ -134,8 +123,6 @@ I enjoy building systems that are intelligent, **safe**, and **meaningful** — 
   </a>
 </p>
 
-
----
 
 <div align="center">
 
