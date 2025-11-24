@@ -126,8 +126,69 @@ I enjoy building systems that are intelligent, **safe**, and **meaningful** — 
 
 ## 🌌 Tech Evolution — Always Learning, Always Updating
 
+## 🪐 Tech Evolution — Always Learning, Always Updating
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JasmineSavathallapalli/JasmineSavathallapalli/main/tech-evolution.svg" width="300" />
+  
+<svg width="300" height="300" viewBox="0 0 300 300">
+
+  <!-- Background Glow -->
+  <defs>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#4AA8FF" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#0D1B2A" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Center Star -->
+  <circle cx="150" cy="150" r="25" fill="url(#glow)">
+    <animate attributeName="r" values="20;25;20" dur="4s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- First Orbit Ring -->
+  <circle cx="150" cy="150" r="70" stroke="#4AA8FF55" stroke-width="1" fill="none"/>
+
+  <!-- First Orbiting Node -->
+  <circle cx="150" cy="80" r="8" fill="#4AA8FF">
+    <animateTransform 
+      attributeName="transform"
+      type="rotate"
+      from="0 150 150"
+      to="360 150 150"
+      dur="10s"
+      repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Second Orbit Ring -->
+  <circle cx="150" cy="150" r="110" stroke="#4AA8FF33" stroke-width="1" fill="none"/>
+
+  <!-- Second Orbiting Node -->
+  <circle cx="150" cy="40" r="10" fill="#7CC9FF">
+    <animateTransform 
+      attributeName="transform"
+      type="rotate"
+      from="360 150 150"
+      to="0 150 150"
+      dur="14s"
+      repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Third Orbit Ring -->
+  <circle cx="150" cy="150" r="145" stroke="#4AA8FF22" stroke-width="1" fill="none"/>
+
+  <!-- Third Orbiting Node -->
+  <circle cx="150" cy="5" r="6" fill="#A8D8FF">
+    <animateTransform 
+      attributeName="transform"
+      type="rotate"
+      from="0 150 150"
+      to="360 150 150"
+      dur="18s"
+      repeatCount="indefinite"/>
+  </circle>
+
+</svg>
+
 </p>
 
 <p align="center">
@@ -158,7 +219,7 @@ I enjoy building systems that are intelligent, **safe**, and **meaningful** — 
 <img src="https://github-readme-stats.vercel.app/api?username=JasmineSavathallapalli&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&icon_color=4AA8FF&text_color=A8D8FF&custom_title=Jasmine's%20Coding%20Galaxy" />
 
 <!-- Card 2 -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasmineSavathallapalli&layout=compact&theme=tokyonight&hide_border=true&custom_title=Languages%20Orbit" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasmineSavathallapalli&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&icon_color=4AA8FF&text_color=A8D8FF&custom_title=Languages%20Orbit" />
 
 <img src="https://streak-stats.demolab.com?user=JasmineSavathallapalli&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 
