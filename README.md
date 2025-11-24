@@ -14,12 +14,14 @@
 <!-- Galaxy Banner GIF (Working) -->
 
 
-## 🌠 About Me - A Mind Among the Stars
-Hello! I’m **Jasmine Savathallapalli**, a tech explorer travelling through the galaxies of  
-**Full Stack Web Development and AI/ML**.
+## 🌠 About Me - A Mind Among the Stars &nbsp;&nbsp; ![Visitors](https://komarev.com/ghpvc/?username=JasmineSavathallapalli&style=for-the-badge&color=4AA8FF)
+<p align="justify">
+Hello! I’m <b>Jasmine Savathallapalli</b>, a tech explorer travelling through the galaxies of  
+<b>Full Stack Web Development</b> and <b>AI/ML</b>.  
+I enjoy building systems that are intelligent, safe, and meaningful — with a strong focus on  
+<b>ethical, human-centric AI</b> that creates a positive impact.
+</p>
 
-I enjoy building systems that are intelligent, **safe**, and **meaningful** — with a strong focus on  
-**ethical, human-centric AI** that creates a positive impact.
 
 ✨ **My Focus Areas**  
 - 🧠 Multimodal Mental Health Detection  
