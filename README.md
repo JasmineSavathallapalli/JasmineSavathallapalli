@@ -3,6 +3,9 @@
 <!-- ============================= -->
 
 <!-- Shooting Stars GIF (Working) -->
+<span style="float:left;">
+    <img src="https://komarev.com/ghpvc/?username=JasmineSavathallapalli&label=Visitors&color=4AA8FF" />
+  </span>
 <p align="center">
   <img src="https://github.com/DenverCoder1/readme-typing-svg/raw/main/demo-images/space.gif" width="600" />
 </p>
@@ -27,10 +30,8 @@ I enjoy building systems that are intelligent, safe, and meaningful with a stron
 - 📌 Large Language Models (LLMs) & NLP  
 - 🧩 AI Agents & Autonomous Intelligent Systems  
 - 🔬 Research, Innovation & Experimental AI
- <span style="float:left;">
-    <img src="https://komarev.com/ghpvc/?username=JasmineSavathallapalli&label=Visitors&color=4AA8FF" />
-  </span>
-
+ 
+---
 
 ## 🚀 Currently Exploring
 - 🧬 Multimodal Deep Learning for Mental Health Detection  
