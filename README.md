@@ -12,9 +12,7 @@
 <p align="center"><b> • Full Stack Web Developer • AI/ML Enthusiast </b></p>
 
 <!-- Galaxy Banner GIF (Working) -->
-<p align="center">
-  <img src="https://i.gifer.com/5eKX.gif" width="100%" />
-</p>
+
 
 ---
 
@@ -106,11 +104,10 @@ I enjoy building systems that are intelligent, **safe**, and **meaningful** — 
 ---
 
 # 🐍 Galaxy Snake — Contribution Game  
-> *Watch your contributions form a glowing cosmic snake.*
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
-<div align="center">
-<img src="https://github.com/JasmineSavathallapalli/JasmineSavathallapalli/blob/output/github-contribution-grid-snake.svg" />
-</div>
 
 ---
 
