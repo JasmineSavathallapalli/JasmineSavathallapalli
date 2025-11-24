@@ -13,13 +13,7 @@
 
 <!-- Galaxy Banner GIF (Working) -->
 
-<h2>🌠 About Me – A Mind Among the Stars
-  <span style="float:right;">
-    <img src="https://komarev.com/ghpvc/?username=JasmineSavathallapalli&label=Visitors&color=4AA8FF" />
-  </span>
-</h2>
-
-
+<h2>🌠 About Me – A Mind Among the Stars</h2>
 <p align="justify">
 Hello! I’m <b>Jasmine Savathallapalli</b>, a tech explorer travelling through the galaxies of  
 <b>Full Stack Web Development</b> and <b>AI/ML</b>.  
@@ -27,13 +21,15 @@ I enjoy building systems that are intelligent, safe, and meaningful with a stron
 <b>ethical, human-centric AI</b> that creates a positive impact.
 </p>
 
-
 ✨ **My Focus Areas**  
 - 🧠 Multimodal Mental Health Detection  
 - 🤖 Machine Learning & Deep Learning  
 - 📌 Large Language Models (LLMs) & NLP  
 - 🧩 AI Agents & Autonomous Intelligent Systems  
 - 🔬 Research, Innovation & Experimental AI
+ <span style="float:right;">
+    <img src="https://komarev.com/ghpvc/?username=JasmineSavathallapalli&label=Visitors&color=4AA8FF" />
+  </span>
 ---
 
 ## 🚀 Currently Exploring
