@@ -142,13 +142,13 @@ I enjoy building systems that are intelligent, **safe**, and **meaningful** — 
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Tech_Explorer-Always-4F9DFF?style=for-the-badge&logo=apache-spark&logoColor=white" /> &nbsp;
+  <img src="https://img.shields.io/badge/Tech_Explorer-Always-4F9DFF?style=for-the-badge&logo=apache-spark&logoColor=white" /> 
   
-  <img src="https://img.shields.io/badge/Open_Source-Contributor-4AA8FF?style=for-the-badge&logo=github&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Open_Source-Contributor-4AA8FF?style=for-the-badge&logo=github&logoColor=white" />
   
-  <img src="https://img.shields.io/badge/AI_Researcher-Active-7CC9FF?style=for-the-badge&logo=google-scholar&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/AI_Researcher-Active-7CC9FF?style=for-the-badge&logo=google-scholar&logoColor=white" />
   
-  <img src="https://img.shields.io/badge/FullStack_Developer-Building-4AA8FF?style=for-the-badge&logo=react&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/FullStack_Developer-Building-4AA8FF?style=for-the-badge&logo=react&logoColor=white" />
   
   <img src="https://img.shields.io/badge/GitHub_Profile-Growing-A8D8FF?style=for-the-badge&logo=github&logoColor=white" />
   
@@ -156,6 +156,10 @@ I enjoy building systems that are intelligent, **safe**, and **meaningful** — 
 
 <!-- Card 1 -->
 <img src="https://github-readme-stats.vercel.app/api?username=JasmineSavathallapalli&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true&bg_color=00000000&icon_color=4AA8FF&text_color=A8D8FF" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=JasmineSavathallapalli&show_icons=true&theme=tokyonight&hide_border=true&custom_title=Jasmine's%20Coding%20Galaxy" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasmineSavathallapalli&layout=compact&theme=tokyonight&hide_border=true&custom_title=Languages%20Orbit" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JasmineSavathallapalli&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Orbit" />
+
 <!-- Card 2 -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasmineSavathallapalli&layout=compact&theme=tokyonight&bg_color=00000000&title_color=4AA8FF&text_color=A8D8FF" width="48%" />
 <img src="https://streak-stats.demolab.com?user=JasmineSavathallapalli&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
