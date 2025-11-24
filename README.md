@@ -12,10 +12,9 @@
 <p align="center"><b>  Tech Explorer |  Full Stack Web Developer | AI/ML Enthusiast </b></p>
 
 <!-- Galaxy Banner GIF (Working) -->
-
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <h2>🌠 About Me - A Mind Among the Stars</h2>
-  <img src="https://komarev.com/ghpvc/?username=JasmineSavathallapalli&style=flat-square&color=4AA8FF" />
+  <img src="https://komarev.com/ghpvc/?username=JasmineSavathallapalli&label=Profile+Views&color=blue" alt="profile views"/>
 </div>
 <p align="justify">
 Hello! I’m <b>Jasmine Savathallapalli</b>, a tech explorer travelling through the galaxies of  
