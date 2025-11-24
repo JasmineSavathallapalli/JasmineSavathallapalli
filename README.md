@@ -122,56 +122,7 @@ I enjoy building systems that are intelligent, **safe**, and **meaningful** — 
 
 </p>
 
-
-
-
-<!-- 🌌✨ TECH EVOLUTION ANIMATIONS (All-in-One) -->
-
-## 🚀 Tech Evolution — Always Learning, Always Updating
-My tech stack evolves constantly — like a galaxy in motion.
-
----
-
-### 🌊 1) 3D Contribution Galaxy Wave (Futuristic)
-<p align="center">
-  <img src="https://github-readme-3d-contrib.vercel.app/api?username=JasmineSavathallapalli&theme=monokai" width="800"/>
-</p>
-
----
-
-### 📈 2) Smooth Contribution Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JasmineSavathallapalli&theme=react-dark&area=true&hide_border=true" width="800"/>
-</p>
-
----
-
-### 🐍 3) Snake Game — Glowing Snake Effect
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="800"/>
-</p>
-
----
-
-### ⭐ 4) Starfall / Milky Way Style Animation
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hedythedev/star-history/main/example.gif" width="800"/>
-</p>
-
----
-
-### 🔷 5) Shimmering Contribution Blocks (Galaxy Glow)
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/gh-pages/assets/github-snake-dark.svg" width="800"/>
-</p>
-
----
-
-### 🔮 6) Matrix Falling Code Contribution Theme
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JasmineSavathallapalli&show_icons=true&theme=tokyonight&hide_border=true" width="450"/>
-</p>
-
+My tech stack evolves constantly like a galaxy in motion.
 
   <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
