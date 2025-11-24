@@ -155,13 +155,11 @@ I enjoy building systems that are intelligent, **safe**, and **meaningful** — 
 <p align="center">
 
 <!-- Card 1 -->
-<img src="https://github-readme-stats.vercel.app/api?username=JasmineSavathallapalli&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true&bg_color=00000000&icon_color=4AA8FF&text_color=A8D8FF" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api?username=JasmineSavathallapalli&show_icons=true&theme=tokyonight&hide_border=true&custom_title=Jasmine's%20Coding%20Galaxy" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasmineSavathallapalli&layout=compact&theme=tokyonight&hide_border=true&custom_title=Languages%20Orbit" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JasmineSavathallapalli&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Orbit" />
+<img src="https://github-readme-stats.vercel.app/api?username=JasmineSavathallapalli&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&icon_color=4AA8FF&text_color=A8D8FF&custom_title=Jasmine's%20Coding%20Galaxy" />
 
 <!-- Card 2 -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasmineSavathallapalli&layout=compact&theme=tokyonight&bg_color=00000000&title_color=4AA8FF&text_color=A8D8FF" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasmineSavathallapalli&layout=compact&theme=tokyonight&hide_border=true&custom_title=Languages%20Orbit" />
+
 <img src="https://streak-stats.demolab.com?user=JasmineSavathallapalli&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 
 </p>
