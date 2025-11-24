@@ -27,7 +27,7 @@ I enjoy building systems that are intelligent, **safe**, and **meaningful** — 
 - 📌 Large Language Models (LLMs) & NLP  
 - 🧩 AI Agents & Autonomous Intelligent Systems  
 - 🔬 Research, Innovation & Experimental AI
-
+---
 
 ## 🚀 Currently Exploring
 - 🧬 Multimodal Deep Learning for Mental Health Detection  
@@ -99,13 +99,16 @@ I enjoy building systems that are intelligent, **safe**, and **meaningful** — 
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
+
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JasmineSavathallapalli&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JasmineSavathallapalli&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JasmineSavathallapalli&theme=tokyonight" />
+  <img src="https://img.shields.io/badge/Open_Source-Contributor-4AA8FF?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Researcher-Active-7CC9FF?style=for-the-badge&logo=google-scholar&logoColor=white" />
+  <img src="https://img.shields.io/badge/FullStack_Developer-Building-4AA8FF?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Profile-Growing-A8D8FF?style=for-the-badge&logo=github&logoColor=white" />
 </p>
+
 
 ## 🌍 Connect Across the Stars
 
@@ -123,7 +126,7 @@ I enjoy building systems that are intelligent, **safe**, and **meaningful** — 
   </a>
 </p>
 
-
+---
 <div align="center">
 
 ### ✨ *“Somewhere, something incredible is waiting to be known.” — Carl Sagan*  
