@@ -9,7 +9,7 @@
 
 <!-- Your Name -->
 <h1 align="center">🌌 Jasmine Savathallapalli</h1>
-<p align="center"><b> • Full Stack Web Developer • AI/ML Enthusiast </b></p>
+<p align="center"><b> • Tech Explorer | • Full Stack Web Developer | • AI/ML Enthusiast </b></p>
 
 <!-- Galaxy Banner GIF (Working) -->
 
@@ -40,15 +40,13 @@ I enjoy building systems that are intelligent, **safe**, and **meaningful** — 
 
 # 🛠️ Languages and Tools
 
-## 🧩 Programming Languages
-<p align="left">
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
 </p>
 
-## 🌐 Web Development & Frameworks
 <p align="center">
 
   <!-- React -->
@@ -83,9 +81,6 @@ I enjoy building systems that are intelligent, **safe**, and **meaningful** — 
 
 </p>
 
-
-
-## 🤖 Machine Learning & AI
 <p align="center">
 
   <!-- TensorFlow -->
@@ -108,9 +103,6 @@ I enjoy building systems that are intelligent, **safe**, and **meaningful** — 
 
 </p>
 
-
-
-## ☁️ Cloud, DevOps & Tools
 <p align="center">
 
   <!-- AWS -->
@@ -150,27 +142,23 @@ I enjoy building systems that are intelligent, **safe**, and **meaningful** — 
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Tech_Explorer-Always-4F9DFF?style=for-the-badge&logo=apache-spark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tech_Explorer-Always-4F9DFF?style=for-the-badge&logo=apache-spark&logoColor=white" /> &nbsp;
   
-  <img src="https://img.shields.io/badge/Open_Source-Contributor-4AA8FF?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open_Source-Contributor-4AA8FF?style=for-the-badge&logo=github&logoColor=white" />&nbsp;
   
-  <img src="https://img.shields.io/badge/AI_Researcher-Active-7CC9FF?style=for-the-badge&logo=google-scholar&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Researcher-Active-7CC9FF?style=for-the-badge&logo=google-scholar&logoColor=white" />&nbsp;
   
-  <img src="https://img.shields.io/badge/FullStack_Developer-Building-4AA8FF?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/FullStack_Developer-Building-4AA8FF?style=for-the-badge&logo=react&logoColor=white" />&nbsp;
   
   <img src="https://img.shields.io/badge/GitHub_Profile-Growing-A8D8FF?style=for-the-badge&logo=github&logoColor=white" />
   
 <p align="center">
 
 <!-- Card 1 -->
-<img src="https://github-readme-stats.vercel.app/api?username=JasmineSavathallapalli&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true&bg_color=00000000&icon_color=4AA8FF&text_color=A8D8FF" width="48%"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=JasmineSavathallapalli&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true&bg_color=00000000&icon_color=4AA8FF&text_color=A8D8FF" width="48%" />
 <!-- Card 2 -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasmineSavathallapalli&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=4AA8FF&text_color=A8D8FF" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api?username=JasmineSavathallapalli&show_icons=true&theme=tokyonight&hide_border=true&custom_title=Jasmine's%20Coding%20Galaxy" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasmineSavathallapalli&layout=compact&theme=tokyonight&hide_border=true&custom_title=Languages%20Orbit" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasmineSavathallapalli&layout=compact&theme=tokyonight&bg_color=00000000&title_color=4AA8FF&text_color=A8D8FF" width="48%" />
 <img src="https://streak-stats.demolab.com?user=JasmineSavathallapalli&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JasmineSavathallapalli&theme=tokyonight" />
 
 </p>
 
