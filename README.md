@@ -163,7 +163,7 @@ I enjoy building systems that are intelligent, **safe**, and **meaningful** — 
 > *Watch your contributions form a glowing cosmic snake.*
 
 <div align="center">
-  <img src="https://github.com/JasmineSavathallapalli/JasmineSavathallapalli/blob/output/github-contribution-grid-snake.svg" />
+<img src="https://github.com/JasmineSavathallapallapalli/JasmineSavathallapallapalli/blob/output/github-contribution-grid-snake.svg" />
 </div>
 
 ---
@@ -175,22 +175,22 @@ I enjoy building systems that are intelligent, **safe**, and **meaningful** — 
 
 ---
 
-# 🌍 Connect Across the Stars  
-<div align="center">
+## 🌍 Connect Across the Stars
 
-<a href="mailto:savathallapallijasmine@gmail.com">
-  <img src="https://img.shields.io/badge/Email-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<p align="center">
+  <a href="mailto:savathallapallijasmine@gmail.com">
+    <img src="https://img.shields.io/badge/Email-4AA8FF?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
-<a href="https://www.linkedin.com/in/jasminesavathallapalli">
-  <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+  <a href="https://www.linkedin.com/in/jasminesavathallapalli">
+    <img src="https://img.shields.io/badge/LinkedIn-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-<a href="https://github.com/JasmineSavathallapalli">
-  <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+  <a href="https://github.com/JasmineSavathallapalli">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-</div>
 
 ---
 
