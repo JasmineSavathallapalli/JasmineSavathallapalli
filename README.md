@@ -49,47 +49,87 @@ I enjoy building systems that are intelligent, **safe**, and **meaningful** — 
 </p>
 
 ## 🌐 Web Development & Frameworks
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="45"/>
+<p align="center">
+
+  <!-- React -->
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+
+  <!-- Node.js -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+
+  <!-- Express.js -->
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+
+  <!-- MongoDB -->
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+
+  <!-- MySQL -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+
+  <!-- Django -->
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+
+  <!-- Flask -->
+  <img src="https://img.shields.io/badge/Flask-FFFFFF?style=flat-square&logo=flask&logoColor=black" />
+
+  <!-- FastAPI -->
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+
+  <!-- Bootstrap -->
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+
+  <!-- Tailwind CSS -->
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+
 </p>
+
 
 
 ## 🤖 Machine Learning & AI
 <p align="center">
 
-  <img src="https://img.shields.io/badge/TensorFlow-ML_Modeling-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/PyTorch-Deep_Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <!-- TensorFlow -->
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
 
-  <img src="https://img.shields.io/badge/Scikit_Learn-ML_Algorithms-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <!-- PyTorch -->
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
 
-  <img src="https://img.shields.io/badge/OpenCV-Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <!-- Scikit-Learn -->
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
 
-  <img src="https://img.shields.io/badge/NumPy-Numerical_Computation-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <!-- OpenCV -->
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
 
-  <img src="https://img.shields.io/badge/Pandas-Data_Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <!-- NumPy -->
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+
+  <!-- Pandas -->
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
 
 </p>
 
 
 
 ## ☁️ Cloud, DevOps & Tools
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="45"/>
+<p align="center">
+
+  <!-- AWS -->
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+
+  <!-- Docker -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+
+  <!-- Git -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+
+  <!-- GitHub -->
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+
+  <!-- Figma -->
+  <img src="https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=white" />
+
 </p>
+
 
 
 ## 🌌 Tech Evolution — Always Learning, Always Updating
@@ -127,6 +167,10 @@ I enjoy building systems that are intelligent, **safe**, and **meaningful** — 
 
 <!-- Card 2 -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasmineSavathallapalli&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=4AA8FF&text_color=A8D8FF" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=JasmineSavathallapalli&show_icons=true&theme=tokyonight&hide_border=true&custom_title=Jasmine's%20Coding%20Galaxy" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasmineSavathallapalli&layout=compact&theme=tokyonight&hide_border=true&custom_title=Languages%20Orbit" />
+<img src="https://streak-stats.demolab.com?user=JasmineSavathallapalli&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JasmineSavathallapalli&theme=tokyonight" />
 
 </p>
 
