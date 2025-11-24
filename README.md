@@ -103,15 +103,15 @@ I enjoy building systems that are intelligent, **safe**, and **meaningful** — 
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Tech_Explorer-Galaxy_Theme-4F9DFF?style=for-the-badge&logo=apache-spark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tech_Explorer-Always-4F9DFF?style=for-the-badge&logo=apache-spark&logoColor=white" />
   <img src="https://img.shields.io/badge/Open_Source-Contributor-4AA8FF?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/AI_Researcher-Active-7CC9FF?style=for-the-badge&logo=google-scholar&logoColor=white" />
   <img src="https://img.shields.io/badge/FullStack_Developer-Building-4AA8FF?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Profile-Growing-A8D8FF?style=for-the-badge&logo=github&logoColor=white" />
+  
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JasmineSavathallapalli&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JasmineSavathallapalli&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JasmineSavathallapalli&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JasmineSavathallapalli&theme=tokyonight&utcOffset=5.5" />
 </p>
 
 </p>
