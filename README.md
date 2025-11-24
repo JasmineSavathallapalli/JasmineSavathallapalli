@@ -125,14 +125,36 @@ I enjoy building systems that are intelligent, **safe**, and **meaningful** — 
 
 
 
-## 🪐 Tech Evolution — Always Learning, Always Updating
 <p align="center">
-  <img src="https://i.imgur.com/0Zf0v6O.png" width="300" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=4aa8ff&height=4&section=footer">
 </p>
 
+<h2 align="center">🪐 Tech Evolution — Always Learning, Always Updating</h2>
+
 <p align="center">
-  <b>My tech stack evolves constantly — like the orbit of a growing galaxy.</b>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=4aa8ff&height=120&section=footer">
 </p>
+
+<p align="center"><b>My tech stack evolves constantly — like the orbit of a growing galaxy.</b></p>
+
+---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/master/Animation.gif" width="500">
+</p>
+
+<h2 align="center">☄️ Tech Evolution — Always Learning, Always Updating</h2>
+
+<p align="center"><b>My tech stack evolves constantly — like the orbit of a growing galaxy.</b></p>
+---
+<h2 align="center">🛸 Tech Evolution — Always Learning, Always Updating</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CarletonComputerScienceSociety/design-assets/main/logos/planets/planet-03.png" width="160">
+</p>
+
+<p align="center"><b>My tech stack evolves constantly — like the orbit of a growing galaxy.</b></p>
+
+
     
   <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
