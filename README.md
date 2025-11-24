@@ -8,13 +8,13 @@
 </p>
 
 <!-- Your Name -->
-<h1 align="center">🌌 Jasmine Savathallapalli</h1>
+<h1 align="center">🌌Hi! I'm Jasmine Savathallapalli </h1>
 <p align="center"><b>  Tech Explorer |  Full Stack Web Developer | AI/ML Enthusiast </b></p>
 
 <!-- Galaxy Banner GIF (Working) -->
 
 
-## 🌠 About Me — A Mind Among the Stars
+## 🌠 About Me - A Mind Among the Stars
 Hello! I’m **Jasmine Savathallapalli**, a tech explorer travelling through the galaxies of  
 **Full Stack Web Development and AI/ML**.
 
@@ -122,7 +122,7 @@ I enjoy building systems that are intelligent, **safe**, and **meaningful** — 
 
 </p>
 
-My tech stack evolves constantly like a galaxy in motion.
+<p align="center">My tech stack evolves constantly like a galaxy in motion.</p>
 
   <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
