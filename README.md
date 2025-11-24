@@ -125,14 +125,33 @@ I enjoy building systems that are intelligent, **safe**, and **meaningful** — 
 
 
 
-<h2 align="center">🪐 Tech Evolution — Always Learning, Always Updating</h2>
+<h2>🌌 Tech Evolution — Always Learning, Always Updating</h2>
 
 <p align="center">
-  <img src="assets/tech-evolution.gif" width="700"/>
+  <svg width="100%" height="150" viewBox="0 0 1200 150" xmlns="http://www.w3.org/2000/svg">
+    <path id="wave" fill="#4AA8FF" d="
+      M0,60 
+      C150,10 350,110 600,60 
+      C850,10 1050,110 1200,60 
+      V150 H0 Z">
+      <animate 
+        attributeName="d"
+        dur="6s"
+        repeatCount="indefinite"
+        values="
+          M0,60 C150,10 350,110 600,60 C850,10 1050,110 1200,60 V150 H0 Z;
+          M0,80 C200,140 400,20 600,80 C800,140 1000,20 1200,80 V150 H0 Z;
+          M0,60 C150,10 350,110 600,60 C850,10 1050,110 1200,60 V150 H0 Z;
+        "
+      />
+    </path>
+  </svg>
 </p>
+
 <p align="center">
-  <em>My tech stack evolves constantly like the orbit of a growing galaxy.</em>
+  <b>My tech stack evolves constantly like the rhythm of an expanding universe.</b>
 </p>
+
 
   <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
