@@ -147,9 +147,7 @@ I enjoy building systems that are intelligent, safe, and meaningful with a stron
   <img src="https://img.shields.io/badge/GitHub_Profile-Growing-A8D8FF?style=for-the-badge&logo=github&logoColor=white" />
   
 <p align ="center">
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=JasmineSavathallapalli&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&icon_color=4AA8FF&text_color=A8D8FF"
-/>
+<img src="https://github-readme-stats.vercel.app/api?username=JasmineSavathallapalli&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&icon_color=4AA8FF&text_color=A8D8FF"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JasmineSavathallapalli&theme=tokyonight" />
 <!-- Card 2: Languages Orbit -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasmineSavathallapalli&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&icon_color=4AA8FF&text_color=A8D8FF&custom_title=Languages%20Orbit" />
