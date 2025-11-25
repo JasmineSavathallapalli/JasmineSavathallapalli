@@ -148,12 +148,13 @@ I enjoy building systems that are intelligent, safe, and meaningful with a stron
   
 <p align="center">
 
-<!-- Card 1 -->
-<img src="https://github-readme-stats.vercel.app/api?username=JasmineSavathallapalli&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&icon_color=4AA8FF&text_color=A8D8FF&custom_title=Jasmine's%20Coding%20Galaxy" />
+<!-- Card 1: Jasmine’s Coding Galaxy -->
+<img src="https://github-readme-stats.vercel.app/api?username=JasmineSavathallapalli&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&icon_color=4AA8FF&text_color=A8D8FF&custom_title=Jasmine%27s%20Coding%20Galaxy" />
 
-<!-- Card 2 -->
+<!-- Card 2: Languages Orbit -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasmineSavathallapalli&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&icon_color=4AA8FF&text_color=A8D8FF&custom_title=Languages%20Orbit" />
 
+<!-- Card 3: Streak -->
 <img src="https://streak-stats.demolab.com?user=JasmineSavathallapalli&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 
 </p>
