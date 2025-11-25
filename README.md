@@ -150,21 +150,15 @@ I enjoy building systems that are intelligent, safe, and meaningful with a stron
 <img 
   src="https://github-readme-stats.vercel.app/api?username=JasmineSavathallapalli&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&icon_color=4AA8FF&text_color=A8D8FF"
 />
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JasmineSavathallapalli&theme=tokyonight" />
 <!-- Card 2: Languages Orbit -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasmineSavathallapalli&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&icon_color=4AA8FF&text_color=A8D8FF&custom_title=Languages%20Orbit" />
-<img src="https://github-readme-stats.vercel.app/api?username=JasmineSavathallapalli&show_icons=true&theme=tokyonight&hide_border=true&custom_title=Jasmine's%20Coding%20Galaxy" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasmineSavathallapalli&layout=compact&theme=tokyonight&hide_border=true&custom_title=Languages%20Orbit" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JasmineSavathallapalli&theme=tokyonight" />
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JasmineSavathallapalli&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JasmineSavathallapalli&theme=tokyonight" />
-</p>
+
 <!-- Card 3: Streak -->
 <img src="https://streak-stats.demolab.com?user=JasmineSavathallapalli&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </p>
 
-</p>
+
 
 
 
