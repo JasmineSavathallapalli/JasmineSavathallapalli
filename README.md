@@ -146,25 +146,34 @@ I enjoy building systems that are intelligent, safe, and meaningful with a stron
   
   <img src="https://img.shields.io/badge/GitHub_Profile-Growing-A8D8FF?style=for-the-badge&logo=github&logoColor=white" />
   
-<p align="center">
-
+<table> <tr> <td align="center">
 <!-- Card 1: Jasmine’s Coding Galaxy -->
-### 🌌 Jasmine’s Coding Galaxy
+  <h3>🌌 Jasmine’s Coding Galaxy</h3>
 
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=JasmineSavathallapalli&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&icon_color=4AA8FF&text_color=A8D8FF"
-/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=JasmineSavathallapalli&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&icon_color=4AA8FF&text_color=A8D8FF"
+    width="400"
+  />
 
-<!-- Card 2: Languages Orbit -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasmineSavathallapalli&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&icon_color=4AA8FF&text_color=A8D8FF&custom_title=Languages%20Orbit" />
+</td>
+<td align="center">
 
+  <h3>🪐 Languages Orbit</h3>
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasmineSavathallapalli&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&icon_color=4AA8FF&text_color=A8D8FF"
+    width="350"
+  />
+
+</td>
+</tr> </table>
+<p>
 <!-- Card 3: Streak -->
 <img src="https://streak-stats.demolab.com?user=JasmineSavathallapalli&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 
 </p>
 
 
-</p>
 
 
 ## 🌍 Connect Across the Stars
