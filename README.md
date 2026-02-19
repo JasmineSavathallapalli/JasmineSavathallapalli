@@ -24,21 +24,6 @@ I enjoy building systems that are intelligent, safe, and meaningful with a stron
 <b>ethical, human-centric AI</b> that creates a positive impact.
 </p>
 
-✨ **My Focus Areas**  
-- 🧠 Multimodal Mental Health Detection  
-- 🤖 Machine Learning & Deep Learning  
-- 📌 Large Language Models (LLMs) & NLP  
-- 🧩 AI Agents & Autonomous Intelligent Systems  
-- 🔬 Research, Innovation & Experimental AI
- 
----
-
-## 🚀 Currently Exploring
-- 🧬 Multimodal Deep Learning for Mental Health Detection  
-- 📱 Mobile Application Development
-- 🤖 AI Agentic Systems & AI Tools  
-- 🔍 Secure & Safe AI Deployment  
-- ⚙️ Efficient ML Techniques & Model Optimization  
 
 ---
 
