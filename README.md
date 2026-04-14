@@ -1,5 +1,5 @@
 <span style="float:left;">
-    <img src="https://komarev.com/ghpvc/?username=JasmineSavathallapalli&label=Profile views&color=4AA8FF" />
+    <img src="https://komarev.com/ghpvc/?username=JasmineSavathallapalli&label=Visitors&color=4AA8FF" />
 </span>
 
 # Hi! I'm Jasmine 👋
