@@ -19,8 +19,8 @@
 ##  What I’m Currently Building
 
 - 🧠 **[AI Reliability Platform](https://github.com/JasmineSavathallapalli/AI-Reliability-Platform)** - full-stack platform for ensuring AI reliability through guardrails, evaluation, and observability  
-- 🛡️ **[Toxicity Evasion Attack Detection](https://github.com/JasmineSavathallapalli/Toxicity-Evasion-Attack-Detection-Using-Adversarially-Robust-Deep-Learning-Models)** - detects toxic and adversarial content in user-generated inputs using robust deep learning models  
-- 🧩 **Mental Health Detection** - predicts depression using multimodal data and deep learning techniques
+- 🛡️ **[Toxicity Evasion Attack Detection](https://github.com/JasmineSavathallapalli/Toxicity-Evasion-Attack-Detection-Using-Adversarially-Robust-Deep-Learning-Models)** - detects toxic and adversarial content in user-generated inputs using DL Models 
+- 🧩 **Mental Health Detection** - predicts depression using multimodal data and DL techniques
   
 ## GitHub Activity
 
