@@ -20,7 +20,7 @@
 
 - 🧠 **[AI Reliability Platform](https://github.com/JasmineSavathallapalli/AI-Reliability-Platform)** - full-stack platform for ensuring AI reliability through guardrails, evaluation, and observability  
 - 🛡️ **[Toxicity Evasion Attack Detection](https://github.com/JasmineSavathallapalli/Toxicity-Evasion-Attack-Detection-Using-Adversarially-Robust-Deep-Learning-Models)** - detects toxic and adversarial content in user-generated inputs using DL Models 
-- 🧩 **Mental Health Detection** - predicts depression using multimodal data and DL techniques
+- 🧩 **[Mental Health Detection](https://github.com/JasmineSavathallapalli/Mental-Health-Detection-from-Multimodal-Data-using-Deep-Learning)** - predicts depression using multimodal data and DL techniques
   
 ## GitHub Activity
 
