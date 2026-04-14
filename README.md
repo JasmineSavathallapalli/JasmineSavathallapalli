@@ -1,9 +1,6 @@
 <span style="float:left;">
     <img src="https://komarev.com/ghpvc/?username=JasmineSavathallapalli&label=Visitors&color=4AA8FF" />
-  </span>
-<p align="center">
-  <img src="https://github.com/DenverCoder1/readme-typing-svg/raw/main/demo-images/space.gif" width="600" />
-</p>
+</span>
 
 # Hi! I'm Jasmine 👋
 
@@ -65,6 +62,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
 </p>
 
 ### AI & ML
@@ -86,7 +84,7 @@
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/-Jasmine_Savathallapalli-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jasminesavathallapalli/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jasmine_Savathallapalli-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jasminesavathallapalli/)
 [![GitHub](https://img.shields.io/badge/-JasmineSavathallapalli-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JasmineSavathallapalli)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://jasminesavathallapalli.vercel.app/)
 [![Substack](https://img.shields.io/badge/-lilminecore-FF6719?style=flat-square&logo=substack&logoColor=white)](https://substack.com/@lilminecore)
