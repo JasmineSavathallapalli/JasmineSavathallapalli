@@ -84,20 +84,20 @@
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jasmine_Savathallapalli-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jasminesavathallapalli/)
-[![GitHub](https://img.shields.io/badge/-JasmineSavathallapalli-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JasmineSavathallapalli)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jasminesavathallapalli/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://jasminesavathallapalli.vercel.app/)
 [![Substack](https://img.shields.io/badge/-lilminecore-FF6719?style=flat-square&logo=substack&logoColor=white)](https://substack.com/@lilminecore)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:savathallapallijasmine@gmail.com)
+[![GitHub](https://img.shields.io/badge/Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JasmineSavathallapalli)
 
 ## Professional Highlights
 
-  <img src="https://img.shields.io/badge/Tech_Explorer-Always-4F9DFF?style=for-the-badge&logo=apache-spark&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Open_Source-Contributor-4AA8FF?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_Researcher-Active-7CC9FF?style=for-the-badge&logo=google-scholar&logoColor=white" />
-  <img src="https://img.shields.io/badge/FullStack_Developer-Building-4AA8FF?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Profile-Growing-A8D8FF?style=for-the-badge&logo=github&logoColor=white" />
-
+- Tech explorer — continuously learning  
+- Open-source contributor  
+- AI-focused — actively building 
+- Full-stack developer — building solutions  
+- GitHub profile — consistently growing
+  
 ### Principles
 
 > Build, adapt, and improve — because systems should evolve with real-world needs.
