@@ -1,5 +1,5 @@
 <span style="float:left;">
-    <img src="https://komarev.com/ghpvc/?username=JasmineSavathallapalli&label=Visitors&color=4AA8FF" />
+    <img src="https://komarev.com/ghpvc/?username=JasmineSavathallapalli&label=Profile views&color=4AA8FF" />
 </span>
 
 # Hi! I'm Jasmine 👋
@@ -16,12 +16,20 @@
 
 > I build systems that don’t just work — they hold up in real-world use.
 
-##  What I’m Currently Building
+## Currently Building
 
 - 🧠 **[AI Reliability Platform](https://github.com/JasmineSavathallapalli/AI-Reliability-Platform)** - full-stack platform for ensuring AI reliability through guardrails, evaluation, and observability  
 - 🛡️ **[Toxicity Evasion Attack Detection](https://github.com/JasmineSavathallapalli/Toxicity-Evasion-Attack-Detection-Using-Adversarially-Robust-Deep-Learning-Models)** - detects toxic and adversarial content in user-generated inputs using DL Models 
 - 🧩 **[Mental Health Detection](https://github.com/JasmineSavathallapalli/Mental-Health-Detection-from-Multimodal-Data-using-Deep-Learning)** - predicts depression using multimodal data and DL techniques
   
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jasminesavathallapalli/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://jasminesavathallapalli.vercel.app/)
+[![Substack](https://img.shields.io/badge/-lilminecore-FF6719?style=flat-square&logo=substack&logoColor=white)](https://substack.com/@lilminecore)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:savathallapallijasmine@gmail.com)
+[![GitHub](https://img.shields.io/badge/Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JasmineSavathallapalli)
+
 ## GitHub Activity
 
 <p align="center">
@@ -77,14 +85,6 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=white"/>
 </p>
-
-## Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jasminesavathallapalli/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://jasminesavathallapalli.vercel.app/)
-[![Substack](https://img.shields.io/badge/-lilminecore-FF6719?style=flat-square&logo=substack&logoColor=white)](https://substack.com/@lilminecore)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:savathallapallijasmine@gmail.com)
-[![GitHub](https://img.shields.io/badge/Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JasmineSavathallapalli)
 
 ## Professional Highlights
 
