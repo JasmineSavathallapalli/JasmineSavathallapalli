@@ -21,6 +21,13 @@
 - 🧠 **[AI Reliability Platform](https://github.com/JasmineSavathallapalli/AI-Reliability-Platform)** - full-stack platform for ensuring AI reliability through guardrails, evaluation, and observability  
 - 🛡️ **[Toxicity Evasion Attack Detection](https://github.com/JasmineSavathallapalli/Toxicity-Evasion-Attack-Detection-Using-Adversarially-Robust-Deep-Learning-Models)** - detects toxic and adversarial content in user-generated inputs using DL Models 
 - 🧩 **[Mental Health Detection](https://github.com/JasmineSavathallapalli/Mental-Health-Detection-from-Multimodal-Data-using-Deep-Learning)** - predicts depression using multimodal data and DL techniques
+
+## What I'm Doing
+
+- Building full-stack and AI-powered applications  
+- Exploring reliable, real-world AI systems  
+- Improving UI/UX design skills  
+- Continuously learning and delivering projects
   
 ## Connect
 
@@ -37,14 +44,7 @@
 </p>
   <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-## What I'm Doing
-
-- Building full-stack and AI-powered applications  
-- Exploring reliable, real-world AI systems  
-- Improving UI/UX design skills  
-- Continuously learning and delivering projects  
+</p> 
 
 ## Tech Stack
 
